@@ -1,0 +1,11 @@
+[package]
+name = "ctool"
+version = "0.0.1"
+edition = "2021"
+description = "ctool"
+license = "MPL-2.0"
+include = ["src/"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
